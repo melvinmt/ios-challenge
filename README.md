@@ -11,7 +11,7 @@
 
 ## Technical Requirements
 
-- Language: Objective-C
+- Language: Objective-C / Swift
 - iOS10
 - iPhone 5/5s/6/6+/6s/6s+
 
@@ -33,4 +33,4 @@
 
 ## Third-party libraries
 
-- You are discouraged to use any third-party library but are free to do so if you have a good motivation.
+- You are discouraged to use third-party libraries but are free to use AFNetworking for the REST API Call (just not helpers like UIImageView+AFNetworking or AFImageCache).
