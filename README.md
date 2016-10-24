@@ -33,4 +33,4 @@
 
 ## Third-party libraries
 
-- You are discouraged to use third-party libraries but are free to use libraries like AFNetworking/Alamafire for the REST API Call (just not UI/Image helpers like `UIImageView+AFNetworking` or `AFImageCache`).
+- You are discouraged to use third-party libraries in general but are free to use libraries like AFNetworking/Alamafire for the REST API Call (just not UI/Image helpers like `UIImageView+AFNetworking` or `AFImageCache`).
