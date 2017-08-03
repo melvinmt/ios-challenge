@@ -11,9 +11,8 @@
 
 ## Technical Requirements
 
-- Language: Objective-C / Swift
+- Language: Objective-C
 - iOS10
-- iPhone 5/5s/6/6+/6s/6s+
 
 ## Evaluation criteria
 
@@ -33,4 +32,4 @@
 
 ## Third-party libraries
 
-- You are discouraged to use third-party libraries in general with the exception of `AFNetworking`/`Alamafire` for the REST API Call (just don't use UI/Image helpers like `UIImageView+AFNetworking` or `AFImageCache`).
+- If you choose to use any third-party libraries, please explain why you made the decision to use each one.
