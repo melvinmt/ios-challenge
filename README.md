@@ -11,8 +11,8 @@
 
 ## Technical Requirements
 
-- Language: Objective-C
-- iOS10
+- Language: Swift
+- iOS 13
 
 ## Evaluation criteria
 
@@ -25,10 +25,8 @@
 
 ## Submission
 
-- Push the code to an online repository and send us the link.
 - Update your project README file with any relevant information.
-- We expect from you a complete Xcode project.
-- The app must run as is.
+- We expect from you a complete Xcode project that we can compile as is.
 
 ## Third-party libraries
 
